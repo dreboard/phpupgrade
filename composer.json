@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Dev\\Testing\\": "classes/"
+        }
+    },
+    "require-dev": {
+        "etsy/phan": "0.1.*"
+    }
+}

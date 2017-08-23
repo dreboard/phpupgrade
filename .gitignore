@@ -1,2 +1,6 @@
 .vagrant
 .idea
+/Vagrantfile2
+/.vagrant
+/.idea
+/vendor/

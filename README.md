@@ -19,6 +19,7 @@ A php dev upgrade testing environment php versions 5.3 - 7.1
 - sudo apt-get install php-pear
 - pecl install ast
 - Add "extension=ast.so" to php.ini
+- enable extension=php_sqlite3.dll
 
 ```
 $ cd /var/www/yoursite/
