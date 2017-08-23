@@ -1,0 +1,32 @@
+
+
+
+
+
+php7dev image version 1.0.0
+  'makephp 71' - to update your PHP 7.1 build
+  'newphp 56' - to switch to PHP-5.6
+  Please read the documentation at https://github.com/rlerdorf/php7dev
+
+
+
+sudo service nginx stop
+sudo apachectl start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
