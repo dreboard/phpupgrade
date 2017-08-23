@@ -6,8 +6,6 @@ A php dev upgrade testing environment php versions 5.3 - 7.1
 - phan
 - git
 
-
-
 | Dependency   |      Name      |  Version |
 |----------|-------------|------|
 | [php7dev](https://github.com/rlerdorf/php7dev) |  Debian 8 Vagrant image with php versions 5.3 - 7.1 | master |
@@ -21,6 +19,9 @@ A php dev upgrade testing environment php versions 5.3 - 7.1
 - Add "extension=ast.so" to php.ini
 - enable extension=php_sqlite3.dll
 
+For windows: http://windows.php.net/downloads/pecl/releases/ast/0.1.5/
+
+Update apache vhost or just serve your site in /var/www/html
 ```
 $ cd /var/www/yoursite/
 $ git pull origin master
